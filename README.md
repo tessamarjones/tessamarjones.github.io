@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Tessa Marin Jones
 
-You can use the [editor on GitHub](https://github.com/tessamarjones/tessamarjones.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Digital Transformation Analyst with a background in biology research and network infrastructure. I am interested in data science, artificial intelligence, and user-centered design. In my spare time, I love to hike, climb, and car-camp. I am currently based in Troutman, North Carolina but interested in remote work and travel. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Recent Projects
+
+1. Implementation of a centralized access control system
+
+2. Low-Code platform selection and implementation
+
+3. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
